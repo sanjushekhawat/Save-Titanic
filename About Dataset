@@ -1,0 +1,35 @@
+Categorical:
+
+*Nominal(variables that have two or more categories, but which do not have an intrinsic order.)
+
+1)Cabin
+2)Embarked(Port of Embarkation)
+    C(Cherbourg)
+    Q(Queenstown) 
+    S(Southampton)
+*Dichotomous(Nominal variable with only two categories)
+
+3)Sex
+    Female
+    Male
+*Ordinal(variables that have two or more categories just like nominal variables. Only the categories can also be ordered or ranked.)
+4)Pclass (A proxy for socio-economic status (SES))
+    1(Upper)
+    2(Middle) 
+    3(Lower)
+*Numeric:
+
+5)Discrete
+6)Passenger ID(Unique identifing # for each passenger)
+7)SibSp
+8)Parch
+9)Survived (Our outcome or dependent variable)
+   0
+   1
+10)Continous
+11)Age
+12)Fare
+*Text Variable
+
+13)Ticket (Ticket number for passenger.)
+14)Name( Name of the passenger.)
