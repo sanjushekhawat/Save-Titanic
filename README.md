@@ -1,2 +1,2 @@
 # Save-Titanic
-Titanic competition, a popular machine learning dataset for beginners.
+Surviving Titanic, a popular machine learning dataset for beginners.
